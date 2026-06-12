@@ -18,7 +18,7 @@ export default function App() {
           finalAvatarUrl === "https://github.com/Ankur1079.png" || 
           finalAvatarUrl === "https://avatars.githubusercontent.com/Ankur1079"
         ) {
-          finalAvatarUrl = "/avatar.jpg";
+          finalAvatarUrl = "/mypic.jpg";
         }
         return { 
           ...defaultProfileData, 

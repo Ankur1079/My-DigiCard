@@ -6,7 +6,7 @@ export const defaultProfileData: ProfileData = {
   title: "Computer Science Student & Full-Stack Developer",
   company: "Sister Nivedita University",
   location: "Kolkata, West Bengal",
-  avatarUrl: "/avatar.jpg",
+  avatarUrl: "/mypic.jpg",
   summary: "Computer Science student and Full-Stack Developer with a strong focus on React.js.",
   skills: [
     "C",
