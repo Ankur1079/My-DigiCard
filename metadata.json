@@ -1,0 +1,6 @@
+{
+  "name": "Digital Introduction Card",
+  "description": "A polished, customizable web introduction card with professional summary, social links, resume viewer, and portfolio linkages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
